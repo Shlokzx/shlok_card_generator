@@ -27,6 +27,7 @@ form.addEventListener('submit', function(data){
     card.appendChild(prof);
 
     card.appendChild(h3);
+    card.appendChild(h5);
     card.appendChild(p);
 
 
@@ -34,5 +35,6 @@ form.addEventListener('submit', function(data){
 
     form.reset();
 })
+
 
 
